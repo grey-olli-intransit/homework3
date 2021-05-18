@@ -1,0 +1,22 @@
+----> 18:29:33 Tue May 18 olli@dell15 ~/bin/cpp/geekbrains/homework3/build
+$ ./homework3_1
+a * (b + (c / d))
+Enter integer 'a': 1
+Enter integer 'b': 1
+Enter integer 'c': 3
+Enter integer 'd': 2
+2.5
+Вывести разницу целого и 21, но если число больше 21, то вывести удвоенную разницу
+Enter integer: 
+22
+Удвоенная разница: 2
+----> 18:29:57 Tue May 18 olli@dell15 ~/bin/cpp/geekbrains/homework3/build
+$ ./homework3_2
+2.5
+----> 18:30:06 Tue May 18 olli@dell15 ~/bin/cpp/geekbrains/homework3/build
+$ ./homework3_3
+cube[1][1][1] = 14
+via pointer *(cubePtr + 1*3 + 1*3*3 + 1) = 14
+----> 18:30:09 Tue May 18 olli@dell15 ~/bin/cpp/geekbrains/homework3/build
+$ 
+
